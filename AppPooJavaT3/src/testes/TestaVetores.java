@@ -8,7 +8,6 @@ public class TestaVetores {
 		
 		int tamanho = Integer.valueOf(args[0]);
 		
-		//Criação de vetores
 		float[] valores = new float[tamanho];
 		
 		float[]totais = new float[12];
