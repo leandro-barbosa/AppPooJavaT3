@@ -8,6 +8,7 @@ public class TestaVetores {
 		
 		int tamanho = Integer.valueOf(args[0]);
 		
+		//Criação de vetores
 		float[] valores = new float[tamanho];
 		
 		float[]totais = new float[12];
@@ -37,6 +38,6 @@ public class TestaVetores {
 					);
 		}
 		
-		System.out.println("a soma de todos os vetores �: " + total);
+		System.out.println("a soma de todos os vetores é: " + total);
 	}
 }
